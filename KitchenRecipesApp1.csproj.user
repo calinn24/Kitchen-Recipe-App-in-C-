@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="temporar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlCookIt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlEditRecipes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlMainMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlNewRecipe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlStepControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlStepModel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlStepsMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
